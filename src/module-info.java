@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Nivaldo
+ *
+ */
+module course {
+}
